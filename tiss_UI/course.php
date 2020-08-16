@@ -18,7 +18,7 @@ if (isset($_POST['addcourse'])) {
     echo "Error: " . $sql . "<br>" . $conn->error;
     }
 
-			header('location: index.html');
+			echo "<script>alert('Your course has been added');</script>";
 
 			}
 			

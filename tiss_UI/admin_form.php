@@ -67,7 +67,7 @@
 <!-- Admin Form -->
 
   <div class="container">
-      <form action="course.php" method="POST">
+      <form>
         <div class="form-group">
           <label>Course Name</label>
           <input type="text" class="form-control" placeholder="Add Name" name="coursename">
