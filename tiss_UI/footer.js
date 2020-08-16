@@ -1,5 +1,12 @@
+
+
 document.write(`
-   
+	<style>
+  .footer{
+    
+    margin-bottom: 0px;
+  }
+  </style>
   <footer id="main-footer" class="py-4 bg-primary text-white text-center">
     Have fun learning!!! Powered by TISS
   </footer>
